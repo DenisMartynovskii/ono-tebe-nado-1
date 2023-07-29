@@ -1,1 +1,1 @@
-https://github.com/DenisMartynovskii/ono-tebe-nado
+https://github.com/DenisMartynovskii/ono-tebe-nado-1
