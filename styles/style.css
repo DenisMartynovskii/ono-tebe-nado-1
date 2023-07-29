@@ -104,7 +104,7 @@
   text-transform: uppercase;
   letter-spacing: 0.3em;
   color: #fff;
-  margin-bottom: 135px;
+  margin-bottom: 125px;
   z-index: 1;
 }
 
@@ -118,7 +118,7 @@
 
    .aligned-text {
   display: block;
-  margin-top: 20px;
+  margin-top: 9px;
 
 }  
   
@@ -135,7 +135,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 78px;
+  gap: 82px;
   z-index: 1;
 }
   
